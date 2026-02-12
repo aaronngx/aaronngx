@@ -47,24 +47,6 @@ Cumulative GPA: 3.098
 - Git, GitHub, Docker, Linux, WordPress, Figma, Redis, Qdrant
 - CI/CD, REST APIs
 
-## 💼 Experience
-
-### Full-stack Developer Intern
-**The Source of Hope** - Plano, TX | June 2025 – August 2025
-
-- Developed a full-featured nonprofit website with **40+ webpages** across 6 core sections that streamlined volunteer registration and donation processing using **React** and **JavaScript**
-- Integrated live event data and interactive location maps that enabled dynamic venue displays and directions using **Eventbrite API** and **Google Maps API**
-- Implemented **SEO optimization** that improved search visibility and social media sharing using React Helmet with Open Graph tags, Twitter cards, and canonical URLs
-- Built a dynamic routing system that managed 40+ routes and blog data retrieval using **React Router** with slug-based navigation architecture
-
-### Service Learning Program
-**UTDESIGN EPICS** - Richardson, TX | August 2024 – December 2024
-
-- Designed and developed a customized interactive **data dashboard** using **Vue.js** for visualizing and analyzing demographic data
-- **Spearheaded a team of 7** to design intuitive UI/UX in Figma and engineer scalable frontends with Vue.js
-- Developed automated data parsing and transformation workflows for 8 years of spreadsheet data, leveraging **ExcelJS** and **JSON2CSV** to convert files into structured database records
-- Optimized data management by designing and integrating a **Prisma ORM** and **SQLite** database, improving query performance and scalability
-
 ## 📌 Notable Projects
 
 ### 🧬 Evaluating Data and Feature Efficiency of Variational Quantum Classifiers for Genomic Cancer Diagnostics
@@ -142,7 +124,7 @@ Cumulative GPA: 3.098
 ## 🙌🏻 My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aaronnguyen/aaronnguyen/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aaronngx/aaronngx/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🎯 Current Focus
