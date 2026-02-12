@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aaronnguyen&label=Views&color=blue&style=plastic&style=icon" alt="aaronnguyen" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aaronngx&label=Views&color=blue&style=plastic&style=icon" alt="aaronngx" /> </p>
 
 ###
 
@@ -109,16 +109,23 @@ Cumulative GPA: 3.098
   <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
 </div>
 
-## 💳 My Profile Summary
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronnguyen&theme=aura" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaronngx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronngx&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## 📈 My Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaronnguyen&radius=16&theme=arctic&area=true&order=5&custom_title=My%20Activity%20Graph" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaronngx&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="activity-graph"  />
+</div>
+
+## 💳 My Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronngx&theme=tokyonight" />
 </div>
 
 ## 🙌🏻 My Contributions
