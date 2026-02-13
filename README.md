@@ -17,10 +17,10 @@
 <img align="right" width="300" height="300" src="./assets/cat-coding-laptop.png">
 
 ### Some stuff about me
-- 🔭 I'm currently studying Computer Science at UT Dallas
-- ⚛️ I have an interest in the fields of Quantum Computing & Aerospace! 🚀
-- 🌱 I like plants :)
-- 😀 I enjoy building and learning new things!
+- I'm currently studying Computer Science at UT Dallas
+- I have an interest in the fields of Quantum Computing & Data Science! 
+- I like cat :)
+- I enjoy building and learning new things!
 
 ## 💻 My Tech Stack
 
