@@ -1,17 +1,12 @@
-<table width="100%" border="0">
-  <tr>
-    <td align="left" style="border: none;">
-      <h1>Hello, I'm Aaron Nguyen 👋🏻</h1>
-    </td>
-    <td align="right" style="border: none;">
-      <a href="mailto:adn220001@utdallas.edu" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=adn220001@utdallas.edu&logo=gmail&label=&color=050f2c&logoColor=00aeff&labelColor=fff050f2c&style=for-the-badge" height="30" alt="gmail logo"  />
-      </a>
-      <br>
-      <img src="https://komarev.com/ghpvc/?username=aaronngx&label=Views&color=blue&style=plastic&style=icon" alt="aaronngx" />
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <a href="mailto:adn220001@utdallas.edu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=adn220001@utdallas.edu&logo=gmail&label=&color=050f2c&logoColor=00aeff&labelColor=fff050f2c&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=aaronngx&label=Views&color=blue&style=plastic&style=icon" alt="aaronngx" />
+</div>
+
+# Hello, I'm Aaron Nguyen 👋🏻
 
 <img align="right" width="300" height="300" src="./assets/cat-coding-laptop.png">
 
