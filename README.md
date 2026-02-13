@@ -87,13 +87,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaronngx&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaronngx&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaronngx&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaronngx&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aaronngx&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 📈 My Activity Graph
