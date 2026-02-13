@@ -88,7 +88,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaronngx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=aaronngx&theme=tokyonight&hide_border=true&stroke=0000&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=FFFFFF"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=aaronngx&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
