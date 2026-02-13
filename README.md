@@ -11,7 +11,6 @@
 ###
 
 <div align="center">
-  <img width="180" src="./assets/cat-typing.gif" alt="Aaron Nguyen coding">
   <h1 style="margin: 0;">Hello, I'm Aaron Nguyen 👋🏻</h1>
 </div>
 
