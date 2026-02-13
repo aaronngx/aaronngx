@@ -87,24 +87,24 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaronngx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronngx&theme=github-dark-blue&hide_border=true&background=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaronngx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronngx&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronngx&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronngx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 📈 My Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaronngx&radius=16&theme=github-compact&area=true&order=5&hide_border=true&bg_color=0d1117&custom_title=Contribution%20Activity%20Graph" alt="activity-graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaronngx&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="activity-graph"  />
 </div>
 
 ## 💳 My Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronngx&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronngx&theme=tokyonight" />
 </div>
 
 ## 🙌🏻 My Contributions
