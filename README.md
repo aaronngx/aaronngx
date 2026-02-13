@@ -15,7 +15,7 @@
   <h1 style="margin: 0;">Hello, I'm Aaron Nguyen 👋🏻</h1>
 </div>
 
-<img align="right" width="300" height="200" src="./assets/cat-coding.gif">
+<img align="right" width="300" height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
 ### Some stuff about me
 - 🔭 I'm currently studying Computer Science at UT Dallas
