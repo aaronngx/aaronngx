@@ -113,10 +113,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronngx&theme=tokyonight" />
 </div>
 
-## 🙌🏻 My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aaronngx/aaronngx/output/snake.svg" alt="Snake animation" />
-</div>
-
 ---
