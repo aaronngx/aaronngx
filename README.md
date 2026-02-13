@@ -14,6 +14,8 @@
   <h1 style="margin: 0;">Hello, I'm Aaron Nguyen 👋🏻</h1>
 </div>
 
+<img align="right" width="300" height="300" src="./assets/cat-coding-laptop.png">
+
 ### Some stuff about me
 - 🔭 I'm currently studying Computer Science at UT Dallas
 - ⚛️ I have an interest in the fields of Quantum Computing & Aerospace! 🚀
