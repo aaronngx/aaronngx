@@ -84,25 +84,6 @@
   <a href="https://www.netlify.com/" target="_blank"><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  /></a>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aaronngx&theme=tokyonight&hide_border=true"/>
-</div>
-
-## 📈 My Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaronngx&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="activity-graph"  />
-</div>
-
-## 💳 My Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronngx&theme=tokyonight" />
-</div>
-
-## 🙌🏻 My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronngx/aaronngx/output/snake.svg">
