@@ -16,7 +16,7 @@
 - I like cat :)
 - I enjoy building and learning new things!
 
-💻 My Tech Stack
+### 💻 My Tech Stack
 
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  /></a>
